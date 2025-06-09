@@ -1,0 +1,25 @@
+﻿Driver_ID,Position,First_Name,Last_Name,Nationality,Team,Team_ID,DriverPoints,Year
+34,1,Max,Verstappen,NED,Red Bull Racing,2,437,2024
+23,2,Lando,Norris,GBR,McLaren,3,374,2024
+19,3,Charles,Leclerc,MON,Ferrari,6,356,2024
+26,4,Oscar,Piastri,AUS,McLaren,3,292,2024
+30,5,Carlos,Sainz,ESP,Ferrari,6,290,2024
+29,6,George,Russell,GBR,Mercedes,1,245,2024
+13,7,Lewis,Hamilton,GBR,Mercedes,1,223,2024
+25,8,Sergio,Perez,MEX,Red Bull Racing,2,152,2024
+3,9,Fernando,Alonso,ESP,Aston Martin,4,70,2024
+10,10,Pierre,Gasly,FRA,Alpine Renault,5,42,2024
+14,11,Nico,Hülkenberg,GER,Haas,9,41,2024
+33,12,Yuki,Tsunoda,JPN,Racing Bulls,7,30,2024
+32,13,Lance,Stroll,CAN,Aston Martin,4,24,2024
+24,14,Esteban,Ocon,FRA,Alpine Renault,5,23,2024
+20,15,Kevin,Magnussen,DEN,Haas,9,16,2024
+2,16,Alexander,Albon,THA,Williams,10,12,2024
+28,17,Daniel,Ricciardo,AUS,Racing Bulls,7,12,2024
+4,18,Oliver,Bearman,GBR,Haas,9,7,2024
+6,19,Franco,Colapinto,ARG ,Williams,10,5,2024
+36,20,Guanyu,Zhou,CHN,Sauber,8,4,2024
+18,21,Liam,Lawson,NZL,Racing Bulls,7,4,2024
+5,22,Valtteri,Bottas,FIN,Sauber,8,0,2024
+31,23,Logan,Sargeant,USA,Williams,10,0,2024
+8,24,Jack,Doohan,AUS,Alpine Renault,5,0,2024
