@@ -6,8 +6,8 @@ I made this as I'm a Formula One Fan and wanted to visualize data I enjoy lookin
 ![Image](https://github.com/user-attachments/assets/21ced0e7-a009-4fb2-8210-9c4954178b55)
 ![Image](https://github.com/user-attachments/assets/e183d5bc-3209-4fc3-ba59-464fc4c96cc9)
 ![Image](https://github.com/user-attachments/assets/ce96be44-3194-47ae-8036-ba80a67ac304)
-![Image](https://github.com/user-attachments/assets/5dd4e821-dea5-4014-88ba-f8bed7cbd7d9)
-![Image](https://github.com/user-attachments/assets/cbb0db6a-5afa-494a-8549-046fa4b2956b)
+![Image](https://github.com/user-attachments/assets/12995ec6-9569-4bff-97f8-36f501677b3a)
+![Image](https://github.com/user-attachments/assets/9d46f0b3-cd34-4eb2-869d-4e8425ea688a)
 
 # Tools Used
 Microsoft Excel\
